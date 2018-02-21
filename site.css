@@ -16,12 +16,12 @@ main {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 4em;
   display: block;
 }
 
 p {
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
 audio {
